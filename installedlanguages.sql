@@ -1,0 +1,1 @@
+SELECT lanname FROM pg_language; 
